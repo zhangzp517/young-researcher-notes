@@ -4,6 +4,6 @@
 
 阅读地址：https://zhangzp517.github.io/young-researcher-notes/
 
-当前版本为三编、十一章、六十七节。本仓库提供在线阅读页面和配图，不提供 EPUB 全书下载。
+当前版本为三编、十一章、六十八节。本仓库提供在线阅读页面和配图，不提供 EPUB 全书下载。
 
 后续在本地修订书稿并生成在线阅读版后，同步 HTML、reader.css、reader.js 与 assets。GitHub Pages 从 main 分支根目录发布。
