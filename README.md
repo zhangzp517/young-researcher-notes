@@ -1,13 +1,9 @@
 # 一个科研青年工作者的随笔与记录
 
-围绕学术研究、学生培养与个人实践的主题随笔集。当前阅读版分为三编、十一章、六十七节。
+在线书稿：按编、章、节浏览目录，每节独立呈现，支持上一节、下一节阅读。
 
-打开 index.html 阅读，或下载同目录中的 EPUB 电子书。
+阅读地址：https://zhangzp517.github.io/young-researcher-notes/
 
-本仓库仅包含公开阅读文件及配图。书稿会随作者笔记的整理持续修订。
+当前版本为三编、十一章、六十七节。本仓库提供在线阅读页面和配图，不提供 EPUB 全书下载。
 
-## GitHub Pages 设置
-
-文件放在仓库根目录，保留 assets 目录。进入仓库 Settings → Pages，在 Build and deployment 中选择 Deploy from a branch；选择 main 分支和 /(root)，保存。
-
-后续更新时替换 index.html、EPUB 与需要更新的配图。页面内所有资源采用相对路径，可以部署在仓库站点路径下。
+后续在本地修订书稿并生成在线阅读版后，同步 HTML、reader.css、reader.js 与 assets。GitHub Pages 从 main 分支根目录发布。

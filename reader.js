@@ -1,0 +1,1 @@
+const button=document.getElementById('menu');button.addEventListener('click',()=>{const open=document.body.classList.toggle('menu-open');button.setAttribute('aria-expanded',String(open));button.textContent=open?'收起目录':'目录';});const target=location.hash.match(/^#(article|chapter)-(\d+)$/);if(target){location.replace(target[1]+'-'+target[2]+'.html');}
